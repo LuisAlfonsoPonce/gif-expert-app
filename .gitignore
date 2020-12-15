@@ -21,3 +21,14 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+./idea/*
+/.idea/04-gif-expert-app.iml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/runConfigurations/npm_start.xml
+/.idea/vcs.xml
+# Default ignored files
+/.idea/workspace.xml
+*.eslintcache
